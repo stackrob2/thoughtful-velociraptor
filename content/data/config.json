@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://thoughtful-velociraptor-be574.netlify.app"
 }
